@@ -1,0 +1,7 @@
+id=versionpie
+name=Make Your Phone Just Like Pie
+version=v1.0
+versionCode=1
+author=ZeroSimple
+description=A mod for your old phone, change the Android Version & security patch version into the newest. Well, flash and enjoy it!
+minMagisk=17000
